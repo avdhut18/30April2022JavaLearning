@@ -4,7 +4,7 @@ public class CheckingArray {
 	
 	
 	public static void main(String[] args) {
-		
+		System.out.println("Demo");
 	int[] inAr = new int[4];   ///defined size of an array = 4
 	
 	// Initializing array with values
